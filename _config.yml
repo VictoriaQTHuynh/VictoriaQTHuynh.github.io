@@ -16,7 +16,7 @@ description              : "Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/images/logo.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "V.H."
+  name             : "Victoria Huynh"
   avatar           : "/images/decisionTree4.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tell me and I forget.  Teach me and I remember.  Involve me and I learn   --Benjamin Franklin"
   location         : "Houston, TX"
