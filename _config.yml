@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Test" 
+title                    : #
 logo                     : "/images/logo.png"
 title_separator          : "-"
 name                     : "Data Science Portfolio"
@@ -85,8 +85,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Victoria H."
-  avatar           : "/images/decisionTree4.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : #
+  avatar           : "/images/logo.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tell me and I forget.  Teach me and I remember.  Involve me and I learn   --Benjamin Franklin"
   location         : "Houston, TX"
   email            :
