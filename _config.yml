@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/images/logo.PNG" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tell me and I forget.  Teach me and I remember.  Involve me and I learn   --Benjamin Franklin"
   location         : "Houston, TX"
   email            :
