@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : #
+title                    : "Home"
 logo                     : "/images/logo.png"
 title_separator          : "-"
-name                     : "Data Science Portfolio"
-description              : "Data Science Portfolio"
+name                     : "Victoria Huynh | Data Science Portfolio"
+description              : "Victoria Huynh | Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
