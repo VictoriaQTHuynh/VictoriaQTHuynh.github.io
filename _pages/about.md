@@ -19,13 +19,28 @@ feature_row_left:
     url: "https://www.facebook.com/VBPTinUS"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: 
+    alt: "The Free-Mask Project"
+    title: "The Free-Mask Project"
+    excerpt: "The day was March 21, 2020; three months into the pandemic. I saw a stranger's post in a Facebook group that I was a member.  She said 'Hello everyone, my husband is an anesthesiologist at (Hospital).  He and his group of doctors and nurses were told yesterday by the hospital that they need to reuse their N95 masks.  They each were given 2 N95 masks and were told to use bleach to clean it after each day so they can be reused over and over again.  I'm worried for my husband and his coworkers.  These N95 masks will break down over time with bleach, and they will have nothing else to protect them when they go visit their patience.  Would someone please help sew some fabric masks for us so they can put on top of their N95s and help to protect it longer from wear and tear? Please, I beg for your help!' That was the day I met Chi and became part of the small sewing group that sew over 1,000 fabric masks and a few hundre caps for the next 7 months to support these local Houston doctors and nurses."
+    url: "https://www.facebook.com/groups/maskproject/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: 
+    alt: "Career Speaker at Tier 1 Middle School"
+    title: "Career Speaker at Tier 1 Middle School"
+    excerpt: "..."
+    url: " "
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+
 ---
 
 I have been working in tech industry for over a decade and currently lead a team of data scientists. Throughout my career I have the opportunites to work with customers from many industries listed above, and learn about their business.  I love to learn about the complexity of each business and how they operate differently with different constraints and objectives.  It's my passion to apply data science to solve these business problems, especially to figure out how the same models can be applied across industries.
 
-My motto in life is "Be better today than you were yesterday, and be better tomorrow than you are today.” —*Lorenzo Snow*
+My life motto is 
 
-> What we think, we become. -- Buddha
+> Be better today than you were yesterday, and be better tomorrow than you are today. —*Lorenzo Snow*
 
 ## Causes I Care About
 
