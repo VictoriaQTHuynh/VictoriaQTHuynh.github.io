@@ -44,6 +44,6 @@ My life motto is
 
 ## Causes I Care About
 
-{% include feature_row id="feature_row_left" type="center" %}
+{% include feature_row id="feature_row_left" type="left" %}
 
 
