@@ -8,7 +8,7 @@ feature_row_left:
   - image_path: /images/cycle_houston.png
     alt: "cycle"
     title: "Cycle Houston"
-    excerpt: "I volunteered in this program for the last 8 years. **Cycle** is a children's charity that rewards students with new bicycles for achieving better academic performance in the classroom. The young students earn a bicycle before Christmas break for achieving their set goals. The mission of the program is to improve 2nd grade literacy at Title One schools in the Greater Houston area. Every year many companies in the Houston areas donate the bikes and the volunteers help put them together and deliver them to the students at the schools before Christmas. I love to see the smiles on the kids' faces when they pick out their bike and sit on it for the first time. "
+    excerpt: "I volunteered in this program for the last 8 years. **Cycle** is a children's charity that rewards students with new bicycles for achieving better academic performance in the classroom. The young students earn a bicycle before Christmas break for achieving their set goals. The mission of the program is to improve 2nd grade literacy at Title One schools in the Greater Houston area."
     url: "https://cyclehouston.org/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -22,15 +22,15 @@ feature_row_left:
   - image_path: 
     alt: "The Free-Mask Project"
     title: "The Free-Mask Project"
-    excerpt: "The day was March 21, 2020; three months into the pandemic. I saw a stranger's post in a Facebook group that I was a member.  She said 'Hello everyone, my husband is an anesthesiologist at (Hospital).  He and his group of doctors and nurses were told yesterday by the hospital that they need to reuse their N95 masks.  They each were given 2 N95 masks and were told to use bleach to clean it after each day so they can be reused over and over again.  I'm worried for my husband and his coworkers.  These N95 masks will break down over time with bleach, and they will have nothing else to protect them when they go visit their patience.  Would someone please help sew some fabric masks for us so they can put on top of their N95s and help to protect it longer from wear and tear? Please, I beg for your help!' That was the day I met Chi and became part of the small sewing group that sew over 1,000 fabric masks and a few hundre caps for the next 7 months to support these local Houston doctors and nurses."
+    excerpt: "March 21, 2020 was the day I joined a small sewing group on Facebook that ended up donating over 4,000 fabric masks and 500 caps for the next 3 months to support local Houston doctors and nurses."
     url: "https://www.facebook.com/groups/maskproject/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: 
     alt: "Career Speaker at Tier 1 Middle School"
     title: "Career Speaker at Tier 1 Middle School"
-    excerpt: "..."
-    url: " "
+    excerpt: "Many students in Tier 1 schools (low income neighborhoods) are not aware of opportunities or career options around them. I volunteered as a career speaker in 2019 to introduce to these students to the exciting career as Data Scientists."
+    url: "https://southeasttexas.ja.org/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 
@@ -44,6 +44,6 @@ My life motto is
 
 ## Causes I Care About
 
-{% include feature_row id="feature_row_left" type="left" %}
+{% include feature_row id="feature_row_left" type="center" %}
 
 
