@@ -8,7 +8,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://www.unsplash.com)"
 
 excerpt: >
-  *Write something here*<br />
+  * *<br />
 
 ---
 
