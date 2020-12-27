@@ -10,7 +10,8 @@ header:
   caption: "Photo credit: [**Freepik**](https://www.freepik.com)"
   
 excerpt: >
-  *What happened in the past? Why did it happen? What will most likely happen in the future? What actions can I take given those predictions?*<br />
+  *Description: What happened in the past?<br /> 
+  *Diagnostic: Why did it happen? What will most likely happen in the future? What actions can I take given those predictions?*<br />
 
 ---
 
