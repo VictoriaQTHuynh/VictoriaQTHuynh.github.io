@@ -10,14 +10,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
-logo                     : "/images/logo.png"
+logo                     : "/images/avatar1.png"
 title_separator          : "-"
 name                     : "Victoria Huynh | Data Science Portfolio"
 description              : "Victoria Huynh | Data Science Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/images/logo.png"
+teaser                   : "/images/avatar1.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : " "
-  avatar           : "/images/logo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/avatar1.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Tell me and I forget.  Teach me and I remember.  Involve me and I learn   --Benjamin Franklin"
   location         : "Houston, TX"
   email            :
