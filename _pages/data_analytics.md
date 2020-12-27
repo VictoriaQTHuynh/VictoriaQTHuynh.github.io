@@ -10,7 +10,10 @@ header:
   caption: "Photo credit: [**Freepik**](https://www.freepik.com)"
   
 excerpt: >
-  *My Data Analytics Projects*<br />
+  * **Descriptive**: *What happened in the past?*<br /> 
+  * **Diagnostic**: *Why did it happen?*<br /> 
+  * **Predictive**: *What will most likely happen in the future?*<br /> 
+  * **Prescriptive**: *What actions can I take given those predictions?*<br />
 
 ---
 
