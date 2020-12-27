@@ -9,7 +9,7 @@ header:
 ---
 
 
-There are three categories of Machine Learning approarches:
+There are three categories of Machine Learning approaches:
 * Supervised Learning
 * Unsupervised Learning
 * Reinforcement Learning.
