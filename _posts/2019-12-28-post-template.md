@@ -1,6 +1,6 @@
 ---
 title: "Post Template"
-date: 2018-01-28
+date: 2019-12-28
 tags: [data, science, messy]
 header:
   overlay_image: "/images/ai1.jpg"
